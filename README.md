@@ -1,9 +1,6 @@
-# android_calculator
-Java calculator application made in Android Studio
-
 # Android Calculator
 
-**A simple calculator application built for Android.**
+**A simple Java calculator application built for Android.**
 
 ## Description
 
